@@ -1,23 +1,38 @@
+# 🌍 Digital Learning Hub
 
-# Digital-Learning-Hub: Learn Anywhere 🌍
-
-Digital Learning Hub is a beginner-friendly educational web app aimed at helping rural students access learning resources regardless of their location or background.
+**Digital Learning Hub** is a beginner-friendly educational web app created to make **learning accessible** for youth in rural communities, no matter their background. This platform serves as a bridge to educational content, self-learning, and career awareness.
 
 ## 🔑 Features
-- 📚 Easy-to-read subject summaries
-- ✅ Interactive quizzes to test understanding
-- 🌱 Career tips and guidance for the future
-- 💡 Motivational content to encourage self-growth
+
+- 📘 Subject summaries (Math, Science, English)
+- ✅ Interactive quizzes to reinforce learning
+- 🌱 Career and scholarship tips
+- 💡 Inspirational messages to motivate students
+
+## 🎯 Goal
+
+To help disadvantaged learners — especially those in rural areas — access simple, useful learning content using technology, and to **empower women and youth** in education and personal growth.
 
 ## 🛠 Built With
-- HTML
-- CSS
+
+- HTML5
+- CSS3
 - JavaScript
 
 ## 🚀 Future Plans
-- Add offline access
-- Translate content into local languages
-- Include a chatbot or mentor Q&A section
+
+- Enable offline use with a Progressive Web App (PWA)
+- Add multilingual support (e.g., Setswana, IsiZulu)
+- Add audio/video explanations for visual/audio learners
+- Add user login for tracking progress
 
 ## 👩🏽‍💻 Author
-Princess Matsobe | [GitHub](https://github.com/Princyym89) | [LinkedIn](https://www.linkedin.com/in/monkieprincessmatsobe)
+
+**Princess Matsobe**  
+- GitHub: [@Princyym89](https://github.com/Princyym89)  
+- LinkedIn: [Princess Matsobe](https://www.linkedin.com/in/monkieprincessmatsobe)
+
+## 💬 Contributions
+
+This is an open project. Contributions, ideas, and feedback are welcome to help make this tool better for all.
+
